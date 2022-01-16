@@ -62,7 +62,7 @@ Python知识导图&学习路线
 
 ![C++学习路线（求职版）](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161829729.png)
 
-#### [**具体学习路线**](./docs/C++求职版学习路线.md)
+#### [**具体学习路线，请戳我**](./docs/C++求职版学习路线.md)
 
 ### Golang开发工程师
 
@@ -70,7 +70,7 @@ Python知识导图&学习路线
 
 ![Golang学习路线(求职版)](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161830673.png)
 
-#### [**具体学习路线**](./docs/Golang求职版学习路线.md)
+#### [**具体学习路线，请戳我**](./docs/Golang求职版学习路线.md)
 
 
 
