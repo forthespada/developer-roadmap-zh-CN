@@ -1,7 +1,7 @@
 # <h1 align="center">developer-roadmap-zh-CN</h1>
 ## 仓库指南
 
-受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 仓库启发，特此维护一个**研发工程师路线图仓库中文版**。
+受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**研发工程师路线图仓库中文版**。
 
 下列路线图代表了当今最有价值的技能组，即如果您今天要进入列出的任何领域，您将学到什么以及优先考虑当今最需要的东西。
 
@@ -13,7 +13,7 @@
 
 ### 已包括
 
-[Linux/C&C++知识导图&学习路线](#Linux/C&C++开发工程师)
+[Linux/C&C++知识导图&学习路线](#cpp开发工程师)
 
 [Golang学习路线](#Golang开发工程师)
 
@@ -37,23 +37,27 @@ Golang知识导图&学习路线
 
 
 
+<p id="cpp开发工程师"></p>
+
 ### Linux/C&C++开发工程师
 
-知识点导图
+#### 知识点导图
 
-[C++知识点导图](./docs/image/超全C/C++思维导图.png)
+![超全C&C++思维导图](./docs/image/超全C:C++思维导图.png)
 
-学习路线大纲
+#### 学习路线大纲
 
-![C++学习路线（求职版）](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110012030114.png)
+![C++学习路线（求职版）](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161829729.png)
 
-[**具体学习路线**](./docs/C++求职版学习路线.md)
+#### [**具体学习路线**](./docs/C++求职版学习路线.md)
 
 ### Golang开发工程师
 
-![Golang求职版学习路线](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112012147950.png)
+#### 学习路线大纲
 
-[**具体学习路线**](./docs/Golang求职版学习路线.md)
+![Golang学习路线(求职版)](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161830673.png)
+
+#### [**具体学习路线**](./docs/Golang求职版学习路线.md)
 
 
 
