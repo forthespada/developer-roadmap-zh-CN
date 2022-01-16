@@ -2,7 +2,7 @@
 
 ## 仓库指南
 
-受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**研发工程师路线图仓库中文版**。
+受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**中国开发者学习路线图中文版**。
 
 下列路线图代表了当今最有价值的技能组，即如果您今天要进入列出的任何领域，您将学到什么以及优先考虑当今最需要的东西。
 
