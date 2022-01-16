@@ -1,4 +1,5 @@
-# <h1 align="center">![中国开发者学习路线图](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201162152712.png)</h1>
+# <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201162152712.png" alt="中国开发者学习路线图" target="https://github.com/awesome-cs-community/developer-roadmap-zh-CN"></h1>
+
 ## 仓库指南
 
 受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**研发工程师路线图仓库中文版**。
