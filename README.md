@@ -1,4 +1,4 @@
-# <h1 align="center">中国开发者学习路线图</h1>
+# <h1 align="center">![中国开发者学习路线图](./docs/image/中国开发者学习路线图.png)</h1>
 ## 仓库指南
 
 受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**研发工程师路线图仓库中文版**。
