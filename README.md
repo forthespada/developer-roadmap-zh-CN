@@ -8,7 +8,7 @@
 
 下列路线图代表了当今最有价值的技能组，即如果您今天要进入列出的任何领域，您将学到什么以及优先考虑当今最需要的东西。
 
-如果您有不同意见请在[issue](https://github.com/awesome-cs-community/developer-roadmap-zh-CN/issues)中提出，愿集百家之所长，汇万人之意见！
+如果您有不同意见请在[issue](https://github.com/awesome-cs-community/developer-roadmap-zh-CN/issues)中提出，愿集百家之所长，汇万人之意见！如有推荐优质资源，请同样在 [issue](https://github.com/awesome-cs-community/developer-roadmap-zh-CN/issues) 中发起。
 
 <!--
 
