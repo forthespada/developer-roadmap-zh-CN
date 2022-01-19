@@ -2,7 +2,7 @@
 
 ## 仓库指南
 
-受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**中国开发者学习路线图中文版**，本仓库由由**字节跳动、腾讯、阿里**的三位研究生学长共同维护。
+受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**中国开发者学习路线图中文版**，本仓库由**字节跳动、腾讯、阿里**的三位研究生学长共同维护。
 
 本仓库的目标**不是**拥有最大的技能清单，**而是**列出任何一位想要从事计算机工作的人要进入该领域都必须学习的东西，也就是**找到一份互联网研发工作，你所需要掌握的最基本的技能**。
 
@@ -19,6 +19,8 @@
 ## 主要技能图
 
 ### 已包括
+
+[计算机网络学习路线](./docs/计算机网络求职版学习路线.md)
 
 [Linux/C&C++知识导图&学习路线](#cpp开发工程师)
 
@@ -42,8 +44,6 @@ Python知识导图&学习路线
 
 数据结构与算法学习路线
 
-计算机网络学习路线
-
 数据库学习路线
 
 ....
@@ -56,11 +56,19 @@ Python知识导图&学习路线
 
 #### 知识点导图
 
-![超全C&C++思维导图](./docs/image/超全C:C++思维导图.png)
+
+
+![超全C&C++思维导图](https://gitee.com/ForthEspada/image/raw/master/image/202201200104691.png)
 
 #### 学习路线大纲
 
+![C++学习路线（求职版](https://gitee.com/ForthEspada/image/raw/master/image/202201200108640.png)
+
+<!--
+
 ![C++学习路线（求职版）](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161829729.png)
+
+-->
 
 #### [**具体学习路线，请戳我**](./docs/C++求职版学习路线.md)
 
@@ -68,11 +76,25 @@ Python知识导图&学习路线
 
 #### 学习路线大纲
 
+![Golang学习路线(求职版)](https://gitee.com/ForthEspada/image/raw/master/image/202201200108433.png)
+
+<!--
+
 ![Golang学习路线(求职版)](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161830673.png)
+
+-->
 
 #### [**具体学习路线，请戳我**](./docs/Golang求职版学习路线.md)
 
 
+
+### 计算机网络
+
+#### 学习路线大纲
+
+![计算机网络学习路线(求职版) @拓跋阿秀](https://gitee.com/ForthEspada/image/raw/master/image/202201200105776.png)
+
+#### [**具体学习路线，请戳我**](./docs/计算机网络求职版学习路线.md)
 
 ## 参考资料
 
