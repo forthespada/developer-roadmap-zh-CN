@@ -58,7 +58,7 @@ Python知识导图&学习路线
 
 
 
-![超全C&C++思维导图](https://gitee.com/ForthEspada/image/raw/master/image/202201200104691.png)
+![超全C&C++思维导图](./docs/image/超全CPP思维导图.png)
 
 #### 学习路线大纲
 
