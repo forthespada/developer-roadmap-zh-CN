@@ -1,8 +1,8 @@
-# <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201162152712.png" alt="中国开发者学习路线图" target="https://github.com/awesome-cs-community/developer-roadmap-zh-CN"></h1>
+# <h1 align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/image/202201272308517.png" alt="中国开发者学习路线图" target="https://github.com/awesome-cs-community/developer-roadmap-zh-CN"></h1>
 
 ## 仓库指南
 
-受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**中国开发者学习路线图中文版**，本仓库由**字节跳动、腾讯、阿里**的三位研究生学长共同维护。
+受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**中国互联网开发者学习路线图中文版**，本仓库由**字节跳动、腾讯、阿里**的三位研究生学长共同维护。
 
 本仓库的目标**不是**拥有最大的技能清单，**而是**列出任何一位想要从事计算机工作的人要进入该领域都必须学习的东西，也就是**找到一份互联网研发工作，你所需要掌握的最基本的技能**。
 
