@@ -2,13 +2,15 @@
 
 ## 仓库指南
 
-受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**中国互联网开发者学习路线图中文版**，本仓库由**三位字节跳动、腾讯、阿里的在职三位研究生学长**共同维护。
+受[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)仓库启发，特此维护一个**中文版互联网开发者学习路线图**，本仓库由**三位研究生学长，先分别就职于字节跳动、腾讯、阿里在职员工**共同维护。
 
 本仓库的目标**不是**拥有最大的技能清单，**而是**列出任何一位想要从事计算机工作的人要进入该领域都必须学习的东西，也就是**找到一份互联网研发工作，你所需要掌握的最基本的技能**。
 
 下列路线图代表了当今最有价值的技能组，即如果您今天要进入列出的任何领域，您将学到什么以及优先考虑当今最需要的东西。
 
-如果您有不同意见请在 [issue](https://github.com/awesome-cs-community/developer-roadmap-zh-CN/issues) 中提出，愿集百家之所长，汇万人之意见！如有推荐优质资源，请同样在 [issue](https://github.com/awesome-cs-community/developer-roadmap-zh-CN/issues) 中发起。
+如果您有不同意见请在 [issue](https://github.com/awesome-cs-community/developer-roadmap-zh-CN/issues) 中提出，愿集百家之所长，汇万人之意见！
+
+如有推荐优质资源，请同样在 [issue](https://github.com/awesome-cs-community/developer-roadmap-zh-CN/issues) 中发起。
 
 <!--
 
