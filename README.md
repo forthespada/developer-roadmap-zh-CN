@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/image/202201272308517.png" alt="中国开发者学习路线图" target="https://github.com/awesome-cs-community/developer-roadmap-zh-CN"></h1>
 
-## 01、仓库指南
+> 👉 推荐：**如果小伙伴访问Github仓库速度较慢，可以访问[码云](https://gitee.com/ForthEspada/developer-roadmap-zh-CN)，我在码云上也放了一份，同步更新**
+
+## **01、仓库指南**
 
 受 [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 仓库启发，特此维护一个**中文版互联网开发者学习路线图**，本仓库由**三位研究生学长，现分别就职于字节跳动、腾讯、阿里在职员工**共同维护，与 developer-roadmap 仓库不同，本 repo 更专注于**计算机初学者**，也就是**普通本科&研究生**以及**打算从生化环材等专业转行到计算机的童鞋**。
 
@@ -37,6 +39,8 @@ git push origin master
 ```
 
 - 提交`Pull request`
+
+
 
 ## 03、主要技能图
 
