@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/image/202201272308517.png" alt="中国开发者学习路线图" target="https://github.com/awesome-cs-community/developer-roadmap-zh-CN"></h1>
+<h1 align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261504225.png" alt="中国开发者学习路线图" target="https://github.com/awesome-cs-community/developer-roadmap-zh-CN"></h1>
 
 > 👉 推荐：**如果小伙伴访问Github仓库速度较慢，可以访问[码云](https://gitee.com/ForthEspada/developer-roadmap-zh-CN)，我在码云上也放了一份，同步更新**
 
@@ -82,7 +82,7 @@ Python知识导图&学习路线
 
 #### 学习路线大纲
 
-![计算机网络学习路线(求职版) @拓跋阿秀](https://gitee.com/ForthEspada/image/raw/master/image/202201200105776.png)
+![计算机网络学习路线(求职版) @拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261506718.png)
 
 #### [**具体学习路线，请戳我**](./docs/计算机网络求职版学习路线.md)
 
@@ -98,7 +98,7 @@ Python知识导图&学习路线
 
 #### 学习路线大纲
 
-![C++学习路线（求职版](https://gitee.com/ForthEspada/image/raw/master/image/202201200108640.png)
+![C++学习路线（求职版](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261423316.png)
 
 <!--
 
@@ -114,7 +114,7 @@ Python知识导图&学习路线
 
 #### 学习路线大纲
 
-![Golang学习路线(求职版)](https://gitee.com/ForthEspada/image/raw/master/image/202201200108433.png)
+![Golang学习路线(求职版)](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261423317.png)
 
 <!--
 
