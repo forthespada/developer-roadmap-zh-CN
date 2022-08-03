@@ -26,7 +26,7 @@
 - 使用`git clone`将项目克隆到本地。
 
 ```
-git clone https://github.com/awesome-cs-community/developer-roadmap-zh-CN
+git clone https://github.com/forthespada/developer-roadmap-zh-CN
 ```
 
 - 用编辑器打开进行贡献，然后提交到`fork`的仓库。
