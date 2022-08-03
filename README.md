@@ -84,7 +84,7 @@ Python知识导图&学习路线
 
 ![计算机网络学习路线(求职版) @拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261506718.png)
 
-#### [**具体学习路线，请戳我**](./docs/计算机网络求职版学习路线.md)
+#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/01-basic-project/03-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
 
 <p id="cpp开发工程师"></p>
 
@@ -106,7 +106,7 @@ Python知识导图&学习路线
 
 -->
 
-#### [**具体学习路线，请戳我**](./docs/C++求职版学习路线.md)
+#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/01-C++%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
 
 <p id="Golang开发工程师"></p>
 
@@ -122,7 +122,7 @@ Python知识导图&学习路线
 
 -->
 
-#### [**具体学习路线，请戳我**](./docs/Golang求职版学习路线.md)
+#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/02-golang%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
 
 
 
