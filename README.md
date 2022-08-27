@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261504225.png" alt="中国开发者学习路线图" target="https://github.com/awesome-cs-community/developer-roadmap-zh-CN"></h1>
+<h1 align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208280058926.png" alt="中国开发者学习路线图" target="https://github.com/forthespada/developer-roadmap-zh-CN"></h1>
 
 > 👉 推荐：**如果小伙伴访问Github仓库速度较慢，可以访问[码云](https://gitee.com/ForthEspada/developer-roadmap-zh-CN)，我在码云上也放了一份，同步更新**
 
