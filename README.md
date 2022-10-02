@@ -46,27 +46,23 @@ git push origin master
 
 ### 03x01、已包括
 
-[计算机网络学习路线](#计算机网络求职版)
+[计算机校招基础学科学习路线](#计算机校招基础学习路线)
 
 [Linux/C&C++知识导图&学习路线](#cpp开发工程师)
 
+[Java学习路线](#Java学习路线)
+
 [Golang学习路线](#Golang开发工程师)
 
-<!--
+[计算机网络学习路线](#计算机网络求职版)
 
-Golang知识导图&学习路线
+[操作系统学习路线](#操作系统学习路线)
 
--->
+
 
 ### 03x02、TODO
 
-Java知识导图&学习路线
-
-JavaScript知识导图&学习路线
-
 Python知识导图&学习路线
-
-操作系统学习路线
 
 数据结构与算法学习路线
 
@@ -76,15 +72,15 @@ Python知识导图&学习路线
 
 
 
-<p id="计算机网络求职版"></p>
 
-### 03x03、计算机网络
 
-#### 学习路线大纲
+<p id="计算机校招基础学习路线"></p>
 
-![计算机网络学习路线(求职版) @拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261506718.png)
+### 03x03、计算机校招基础学习路线
 
-#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/01-basic-project/03-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
+![计算机校招基础学习路线](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022359462.png)
+
+#### [具体学习路线，请戳我](https://interviewguide.cn/notes/02-learning_route/01-basic-project/quick.html)
 
 <p id="cpp开发工程师"></p>
 
@@ -100,33 +96,73 @@ Python知识导图&学习路线
 
 ![C++学习路线（求职版](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261423316.png)
 
-<!--
 
-![C++学习路线（求职版）](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161829729.png)
-
--->
 
 #### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/01-C++%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
 
+
+
+<p id="Java开发工程师"></p>
+
+### 03x05、Java开发工程师
+
+#### 学习路线大纲
+
+![Java学习路线（求职版） @公众号：拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210030007188.png)
+
+#### [具体学习路线，请戳我](https://interviewguide.cn/notes/02-learning_route/02-language/04-Java.html)
+
+
+
 <p id="Golang开发工程师"></p>
 
-### 03x05、Golang开发工程师
+### 03x06、Golang开发工程师
 
 #### 学习路线大纲
 
 ![Golang学习路线(求职版)](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261423317.png)
-
-<!--
-
-![Golang学习路线(求职版)](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202201161830673.png)
-
--->
 
 #### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/02-golang%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
 
 
 
 
+
+<p id="前端开发工程师"></p>
+
+### 03x07、前端开发工程师
+
+#### 学习路线大纲
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022015199.png)
+
+
+
+#### [具体学习路线，请戳我](https://interviewguide.cn/notes/02-learning_route/02-language/05-front.html)
+
+<p id="计算机网络求职版"></p>
+
+### 03x08、计算机网络
+
+#### 学习路线大纲
+
+![计算机网络学习路线(求职版) @拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261506718.png)
+
+#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/01-basic-project/03-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
+
+
+
+
+
+<p id="操作系统xue'xi'lu"></p>
+
+### 03x09、操作系统学习路线
+
+#### 学习路线大纲
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210030005850.png)
+
+#### [具体学习路线，请戳我]()
 
 ## 04、巨人的肩膀
 
