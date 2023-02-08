@@ -4,7 +4,7 @@
 
 ## **01、仓库指南**
 
-受 [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 仓库启发，特此维护一个**互联网校招技术岗开发者学习路线图**，本仓库由**三位研究生学长，现分别就职于字节跳动、腾讯、阿里在职员工**共同维护，与 developer-roadmap 仓库不同，本 repo 更专注于**计算机初学者**，也就是**普通本科&研究生**以及**打算从生化环材等专业转行到计算机的童鞋**。
+受 [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 仓库启发，特此维护一个**互联网校招技术岗开发者学习路线图**，本仓库由**三位研究生学长，现分别就职于字节跳动、腾讯、阿里在职员工**共同维护，与 developer-roadmap 仓库不同，本 repo 更专注于**计算机初学者**，也就是**普通本科&研究生参加校招**以及**打算从生化环材等专业转行到计算机的童鞋**。
 
 本仓库的目标**不是**拥有最大的技能清单，**而是**列出任何一位想要从事计算机工作的人要进入该领域都必须学习的东西，也就是**找到一份互联网研发工作，你所需要掌握的最基本的技能**。
 
@@ -100,7 +100,7 @@ Python知识导图&学习路线
 
 
 
-#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/01-C++%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
+#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/01-C++.html)
 
 
 
@@ -124,7 +124,7 @@ Python知识导图&学习路线
 
 ![Golang学习路线(求职版)](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261423317.png)
 
-#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/02-golang%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
+#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/02-language/02-golang.html)
 
 
 
@@ -150,7 +150,7 @@ Python知识导图&学习路线
 
 ![计算机网络学习路线(求职版) @拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261506718.png)
 
-#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/01-basic-project/03-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)
+#### [**具体学习路线，请戳我**](https://interviewguide.cn/notes/02-learning_route/01-basic-project/03-net.html)
 
 
 
@@ -164,7 +164,7 @@ Python知识导图&学习路线
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210030005850.png)
 
-#### [具体学习路线，请戳我]()
+#### [具体学习路线，请戳我](https://interviewguide.cn/notes/02-learning_route/01-basic-project/02-os.html)
 
 ## 04、巨人的肩膀
 
